@@ -1,0 +1,21 @@
+{
+  "id": "dark-luxury",
+  "name": "Dark Luxury",
+  "description": "Black, emerald and champagne gold",
+  "entry": "index.html",
+  "thumbnail": "../../assets/dark-luxury.svg",
+  "customizableFields": [
+    "couple",
+    "date",
+    "time",
+    "events",
+    "locations",
+    "maps",
+    "gallery",
+    "story",
+    "families",
+    "rsvp",
+    "music",
+    "customMessage"
+  ]
+}

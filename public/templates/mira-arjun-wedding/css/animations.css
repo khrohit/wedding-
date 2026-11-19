@@ -1,0 +1,4 @@
+.loader.is-done{pointer-events:none}.hero .hero-photo img{will-change:transform}.menu-overlay nav a{will-change:transform,opacity}.submit-button i{transition:transform .25s}.submit-button:hover i{transform:translate(3px,-3px)}
+
+.menu-overlay{transition:opacity .35s ease}
+.menu-overlay.is-open{opacity:1}

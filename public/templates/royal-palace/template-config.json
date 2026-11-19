@@ -1,0 +1,21 @@
+{
+  "id": "royal-palace",
+  "name": "Royal Palace",
+  "description": "Burgundy and gold luxury design",
+  "entry": "index.html",
+  "thumbnail": "../../assets/royal-palace.svg",
+  "customizableFields": [
+    "couple",
+    "date",
+    "time",
+    "events",
+    "locations",
+    "maps",
+    "gallery",
+    "story",
+    "families",
+    "rsvp",
+    "music",
+    "customMessage"
+  ]
+}

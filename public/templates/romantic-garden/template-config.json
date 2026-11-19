@@ -1,0 +1,21 @@
+{
+  "id": "romantic-garden",
+  "name": "Romantic Garden",
+  "description": "Pink, sage green and floral",
+  "entry": "index.html",
+  "thumbnail": "../../assets/romantic-garden.svg",
+  "customizableFields": [
+    "couple",
+    "date",
+    "time",
+    "events",
+    "locations",
+    "maps",
+    "gallery",
+    "story",
+    "families",
+    "rsvp",
+    "music",
+    "customMessage"
+  ]
+}

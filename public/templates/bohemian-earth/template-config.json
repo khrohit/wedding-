@@ -1,0 +1,21 @@
+{
+  "id": "bohemian-earth",
+  "name": "Bohemian Earth",
+  "description": "Terracotta and earthy colors",
+  "entry": "index.html",
+  "thumbnail": "../../assets/bohemian-earth.svg",
+  "customizableFields": [
+    "couple",
+    "date",
+    "time",
+    "events",
+    "locations",
+    "maps",
+    "gallery",
+    "story",
+    "families",
+    "rsvp",
+    "music",
+    "customMessage"
+  ]
+}

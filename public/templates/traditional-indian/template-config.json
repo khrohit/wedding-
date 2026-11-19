@@ -1,0 +1,21 @@
+{
+  "id": "traditional-indian",
+  "name": "Traditional Indian",
+  "description": "Red, saffron and marigold",
+  "entry": "index.html",
+  "thumbnail": "../../assets/traditional-indian.svg",
+  "customizableFields": [
+    "couple",
+    "date",
+    "time",
+    "events",
+    "locations",
+    "maps",
+    "gallery",
+    "story",
+    "families",
+    "rsvp",
+    "music",
+    "customMessage"
+  ]
+}

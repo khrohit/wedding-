@@ -1,0 +1,21 @@
+{
+  "id": "modern-minimalist",
+  "name": "Modern Minimalist",
+  "description": "White, beige and charcoal",
+  "entry": "index.html",
+  "thumbnail": "../../assets/modern-minimalist.svg",
+  "customizableFields": [
+    "couple",
+    "date",
+    "time",
+    "events",
+    "locations",
+    "maps",
+    "gallery",
+    "story",
+    "families",
+    "rsvp",
+    "music",
+    "customMessage"
+  ]
+}
